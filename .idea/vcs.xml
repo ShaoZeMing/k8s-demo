@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/code-for-k8s" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laravel-fpm-for-k8s" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laravel-k8s-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laravel-nginx-for-k8s" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nginx1.12-for-k8s" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php71-for-k8s" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php72-for-k8s" vcs="Git" />
+  </component>
+</project>
